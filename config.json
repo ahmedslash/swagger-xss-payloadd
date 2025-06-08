@@ -1,0 +1,9 @@
+{
+  "url": "https://ahmedslash.github.io/swagger-xss-payloadd/payload.yaml",
+  "urls": [
+    {
+      "url": "https://ahmedslash.github.io/swagger-xss-payloadd/payload.yaml",
+      "name": "Foo"
+    }
+  ]
+}
